@@ -1,0 +1,6 @@
+.DS_Store
+package.bluej
+*.class
+*.ctxt
+__pycache__
+
